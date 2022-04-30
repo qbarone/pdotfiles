@@ -11,3 +11,7 @@ terminal:  iTerm2
 
 bar:       simple bar
 
+Widgets: übersitch
+
+skhd
+
